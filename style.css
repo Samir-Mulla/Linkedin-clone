@@ -153,8 +153,8 @@ nav .wrapper .right .me i:first-child {
   display: flex;
 }
 
-.aside{
-    margin: 2rem 1rem;
+.aside {
+  margin: 2rem 1rem;
 }
 
 aside .sidebar {
@@ -164,7 +164,6 @@ aside .sidebar {
   border-top-left-radius: 20px;
   padding: 2rem;
 }
-
 
 .sidebar img {
   position: relative;
@@ -245,7 +244,6 @@ aside .sidebar .profile {
   color: gray;
   font-weight: 100;
   padding: 0.2rem 0.5rem;
-  
 }
 
 .sidebar .premium a {
@@ -258,8 +256,8 @@ aside .sidebar .profile {
   color: #000;
 }
 
-.aside .items{
-    padding: 0.2rem 0.5rem;
+.aside .items {
+  padding: 0.2rem 0.5rem;
 }
 
 .sidebar .premium a i {
@@ -285,19 +283,17 @@ aside .recent_jobs {
   overflow: hidden;
 }
 
-.recent{
-    margin: 2rem 0 0 1rem;
+.recent {
+  margin: 2rem 0 0 1rem;
 }
 
-.recent h5{
-   color:#0a66c2; 
+.recent h5 {
+  color: #0a66c2;
 }
 
-
-aside .recent_jobs{
-    margin-top: 2rem;
+aside .recent_jobs {
+  margin-top: 2rem;
 }
-
 
 aside .recent_jobs .recent h6 {
   font-weight: 100;
@@ -370,20 +366,20 @@ aside .events h6:hover {
 
 /* ================ main section starts here ================= */
 
-.main_section h3{
-text-align: center;
-padding: 1rem;
-}
-
-.main_section p{
+.main_section h3 {
+  text-align: center;
   padding: 1rem;
 }
 
-#close{
-    display: flex;
-    justify-content: flex-end;
-    font-size: 1rem;
-    padding: 1rem;
+.main_section p {
+  padding: 1rem;
+}
+
+#close {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1rem;
+  padding: 1rem;
 }
 
 main {
@@ -559,7 +555,7 @@ main .media .posts .post:hover {
     max-width: 100%;
   }
 
-  nav .wrapper .left{
+  nav .wrapper .left {
     padding: unset;
   }
 
@@ -587,6 +583,4 @@ main .media .posts .post:hover {
     align-items: center;
     flex-wrap: wrap;
   }
-
-
 }
